@@ -16,4 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Overview
+  Nama &nbsp; : Amelia Marshanda S.<br>
+  Kelas &nbsp; &nbsp;: TI-3B<br>
+  NIM &nbsp; &nbsp; : 2041720041<br>
+  
 <img src="images/image1.png">
